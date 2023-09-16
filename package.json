@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/icons": "^4.11.3",
+    "@mui/material": "^5.14.9",
     "@pathofdev/react-tag-input": "^1.0.7",
     "@popperjs/core": "^2.11.6",
     "@testing-library/jest-dom": "^5.16.4",
